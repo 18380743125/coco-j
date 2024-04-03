@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>tcode</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>coco-j</artifactId>
+    <version>1.0.0</version>
 
     <properties>
         <maven.compiler.source>20</maven.compiler.source>
